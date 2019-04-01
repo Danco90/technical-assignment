@@ -27,7 +27,7 @@ Overall, the process consists of importing the file content in a java data struc
 Open the command prompt/Terminal 
 to run the code clone the repository using below command - 
 
-git clone https://github.com/Danco90/technical-exercise.git
+git clone https://github.com/Danco90/technical-assignment.git
 
 ## compile the code-
 	mvn clean install
